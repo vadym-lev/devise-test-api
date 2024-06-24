@@ -26,22 +26,22 @@ Api swagger: http://127.0.0.1:8070/docs
 
 #### Import CSV
 
-![picture alt](./screenshots/Import CSV.png)
+![picture alt](./screenshots/Import_CSV.png)
 
 #### Get Statistic
 
 If you specify a request without parameters, we will get general statistics. Added filtering by operator, sensor type, test date
 
-![picture alt](./screenshots/Get Statistic1.png)
-![picture alt](./screenshots/Get Statistic2.png)
+![picture alt](./screenshots/Get_Statistic1.png)
+![picture alt](./screenshots/Get_Statistic2.png)
 
 #### Create Test Result
 
-![picture alt](./screenshots/Create Test Result.png)
-![picture alt](./screenshots/row in db.png)
+![picture alt](./screenshots/Create_Test_Result.png)
+![picture alt](./screenshots/row_in_db.png)
 
 #### Delete Test Result
 
-![picture alt](./screenshots/Delete Test Result.png)
+![picture alt](./screenshots/Delete_Test_Result.png)
 
 
