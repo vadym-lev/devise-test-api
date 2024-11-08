@@ -1,4 +1,4 @@
-# levkivskyi-v-ajax-test-api
+# devise-test-api
 
 
 # Test Results API
